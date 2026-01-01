@@ -1,0 +1,8 @@
+# Game user data
+*.ini
+
+# Pyinstaller
+build
+dist
+*.spec
+
