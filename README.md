@@ -8,6 +8,7 @@ Uses Pygame and Tkinter
 ```
 pip install pygame
 ```
+For optimal experience, make sure Bahnschrift font is installed
 
 Audio taken from the King.com games, graphics are new
 
